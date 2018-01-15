@@ -1,4 +1,4 @@
--- 全ての目が一度出るまでに振らなければならないサイコロの回数の期待値
+-- サイコロ
 import System.Random
 import Data.List
 
